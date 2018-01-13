@@ -120,11 +120,11 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 # Sonatype Nexus OSS
 
-https://www.sonatype.com/oss-thank-you-win64.zip
-
+Step 1: https://www.sonatype.com/oss-thank-you-win64.zip
+Step 2: unzip the file to C:\application then run the .\nexus.exe /run
+Step 3: [default local settings.xml](https://raw.githubusercontent.com/sonatype/nexus-book-examples/master/maven/settings/settings.xml)
 
 # Testing README
 Srichandana
 Neha
 
-# [default local settings.xml](https://raw.githubusercontent.com/sonatype/nexus-book-examples/master/maven/settings/settings.xml)
