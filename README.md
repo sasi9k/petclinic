@@ -122,8 +122,8 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 ### Steps:
 1. https://www.sonatype.com/oss-thank-you-win64.zip
-2. unzip the file to C:\application then run the .\nexus.exe /run
-3. pull the default local settings.xml from [git](https://raw.githubusercontent.com/sasi9k/petclinic/master/settings.xml) and put it in ~/.m2 folder for extensive information read [Maven Repository](https://help.sonatype.com/display/NXRM3/Maven+Repositories#MavenRepositories-ConfiguringApacheMaven)  
+2. Unzip the file to C:\application then run the .\nexus.exe /run
+3. Pull the default local settings.xml from [git](https://raw.githubusercontent.com/sasi9k/petclinic/master/settings.xml) and put it in ~/.m2 folder. For extensive information read [Maven Repository](https://help.sonatype.com/display/NXRM3/Maven+Repositories#MavenRepositories-ConfiguringApacheMaven)  
 4. If you run the command .\mvnw -U install for the first time it will take atleast 10 minutes
 
 # Testing README
