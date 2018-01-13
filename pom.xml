@@ -248,10 +248,14 @@
   </licenses>
 <distributionManagement>
   <snapshotRepository>
-    <url>http://localhost:8081/repository/maven-snapshots/</url>
+	  <id>nexus</id>
+	  <name>Snapshots</name>
+    <url>http://localhost:8081/repository/maven-snapshots</url>
   </snapshotRepository>
   <repository>
-    <url>http://localhost:8081/repository/maven-public/</url>
+	  <id>nexus</id>
+	  <name>Releases</name>
+    <url>http://localhost:8081/repository/maven-releases</url>
   </repository>
 </distributionManagement>
 </project>
