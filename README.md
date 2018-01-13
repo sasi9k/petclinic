@@ -124,7 +124,7 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 1. https://www.sonatype.com/oss-thank-you-win64.zip
 2. unzip the file to C:\application then run the .\nexus.exe /run
 3. pull the default local settings.xml from [git](https://raw.githubusercontent.com/sasi9k/petclinic/master/settings.xml)
-4. If you run the command mvnw -U install for the first time it will take atleast 10 minutes
+4. If you run the command .\mvnw -U install for the first time it will take atleast 10 minutes
 
 # Testing README
 Srichandana
