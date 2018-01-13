@@ -7,7 +7,7 @@
 ```
 	git clone https://github.com/spring-projects/spring-petclinic.git
 	cd spring-petclinic
-	./mvnw version:set -DnewVersion=1.5.1-SNAPSHOT
+	./mvnw versions:set -DnewVersion=1.5.1-SNAPSHOT
 	./mvnw spring-boot:run
 ```
 
