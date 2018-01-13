@@ -126,3 +126,5 @@ https://www.sonatype.com/oss-thank-you-win64.zip
 # Testing README
 Srichandana
 Neha
+
+# [default local settings.xml](https://raw.githubusercontent.com/sonatype/nexus-book-examples/master/maven/settings/settings.xml)
