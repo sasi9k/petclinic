@@ -119,10 +119,6 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 
-<<<<<<< HEAD
-# Testing:
-Anoosha
-=======
 # Sonatype Nexus OSS
 
 ### Steps:
@@ -137,4 +133,4 @@ Neha
 
 sasi
 
->>>>>>> 5f637c51d1166006ff05930a0c5770ea6edaefe5
+anoosha
