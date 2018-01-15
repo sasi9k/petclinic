@@ -52,6 +52,7 @@ public class Owner extends Person {
     @Column(name = "city")
     @NotEmpty
     private String city;
+    private String state;
 
     @Column(name = "telephone")
     @NotEmpty
@@ -76,6 +77,13 @@ public class Owner extends Person {
 
     public void setCity(String city) {
         this.city = city;
+
+    }
+    public String getState(){
+	    return this.state;
+    }
+    public void setState(String state){
+	    this.state=state;
     }
 
     public String getTelephone() {
