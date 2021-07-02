@@ -249,7 +249,8 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0</url>
     </license>
   </licenses>
-<distributionManagement>
+<!--
+    <distributionManagement>
   <snapshotRepository>
 	  <id>nexus</id>
 	  <name>Snapshots</name>
@@ -261,4 +262,5 @@
     <url>http://localhost:8081/repository/maven-releases</url>
   </repository>
 </distributionManagement>
+-->
 </project>
